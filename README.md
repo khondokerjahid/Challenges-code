@@ -1,4 +1,4 @@
-<img src='./images/logo.png'  alt='JavaScript Coding Challenges jahidul islam zim' id='header'/>
+<img src='./images/logo.png' id='header'/>
 
 <h1 align="center" >JavaScript Coding Challenges </h1>
 
